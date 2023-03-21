@@ -1,0 +1,19 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "- [About](#about)\r - [Getting Started](#getting_started)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-ravelly/Estudos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-ravelly/Estudos/issues"
+  },
+  "homepage": "https://github.com/george-ravelly/Estudos#readme"
+}
